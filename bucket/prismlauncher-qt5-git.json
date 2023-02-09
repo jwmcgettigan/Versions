@@ -1,11 +1,11 @@
 {
-    "version": "7.0-cefa166",
+    "version": "7.0-f36c3a3",
     "description": "An open source Minecraft launcher with the ability to manage multiple instances, accounts and mods. Focused on user freedom and free redistributability. Qt 5 build that still supports legacy Windows like 8.1 and 7.",
     "homepage": "https://prismlauncher.org/",
     "license": "GPL-3.0-only",
     "notes": "To add Prism Launcher file association options for .ZIPs and .MRPACKS, run this: \"$dir\\install-associations.reg\"",
-    "url": "https://nightly.link/PrismLauncher/PrismLauncher/workflows/trigger_builds/develop/PrismLauncher-Windows-MSVC-Legacy-cefa166-Debug.zip",
-    "hash": "fe0bad3b9fffdf8b563e25666dec42bac050e031697c5c010c831a1ac28d62ae",
+    "url": "https://nightly.link/PrismLauncher/PrismLauncher/workflows/trigger_builds/develop/PrismLauncher-Windows-MSVC-Legacy-f36c3a3-Debug.zip",
+    "hash": "37361c0ab0c009a2252f403c1ff2316d766908be756fc1e6446162f224676440",
     "suggest": {
         "Microsoft Visual C++ Redistributables": "extras/vcredist2022"
     },

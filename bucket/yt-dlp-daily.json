@@ -1,5 +1,5 @@
 {
-    "version": "2023.01.22.334",
+    "version": "2023.02.08.19419",
     "description": "Unofficial daily builds for yt-dlp - a youtube-dl fork with additional features and fixes.",
     "homepage": "https://github.com/ytdl-patched/yt-dlp",
     "license": "Unlicense",
@@ -8,12 +8,12 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/ytdl-patched/yt-dlp/releases/download/2023.01.22.334/yt-dlp.exe",
-            "hash": "sha512:e7929b45bcfc4eb98937b72ca9c5159804c7a87a3e19ced07c42d8c282ce5c6eed1345b5b5d1b8ecbe9a7e708088fa9792cbd382a1b55e07261a7e0a0c55e0bb"
+            "url": "https://github.com/ytdl-patched/yt-dlp/releases/download/2023.02.08.19419/yt-dlp.exe",
+            "hash": "sha512:fb17849eafd9667cfba29f02766627e74458c48f350b5990d1d3c6c35160f4d24a341f8f037642c4c3f45f7a008d83f5edca13d63cf2939ef415726b0acf32f8"
         },
         "32bit": {
-            "url": "https://github.com/ytdl-patched/yt-dlp/releases/download/2023.01.22.334/yt-dlp_x86.exe#/yt-dlp.exe",
-            "hash": "sha512:44ce14ecce5e26613e1a0c684477d6fbcf5a3b1a59a49c3c4ecd58c669c2b28b19f76c4dd07b2c2182a8ff141c4f2ed866b06f683e7662048ad6ac9c3957bd07"
+            "url": "https://github.com/ytdl-patched/yt-dlp/releases/download/2023.02.08.19419/yt-dlp_x86.exe#/yt-dlp.exe",
+            "hash": "sha512:d9ff44c0170f05c14aa22ea14f51edb859c3455680a854bb59533b73551beb5430a2d2b7c0e3f3478eb91fb95443da275440f29710156ada0c83d181449484c9"
         }
     },
     "bin": "yt-dlp.exe",
